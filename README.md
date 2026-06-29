@@ -1,4 +1,4 @@
-# Auto
+f00d50c234f94a10a00f0d9d98cf21b632020120# Auto
 
 [![Build Status](https://github.com/google/auto/actions/workflows/ci.yml/badge.svg)](https://github.com/google/auto/actions/workflows/ci.yml)
 
